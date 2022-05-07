@@ -4,7 +4,7 @@
   margin-bottom: 20px;
 }
 
-.Dictionary section {
+.Dictionary section .Search {
   background: white;
   padding: 30px;
   border-radius: 6px;
@@ -16,11 +16,7 @@
   width: 100%;
   border-radius: 6px;
   padding: 6px 10px;
-  color: #333;
+  color: rgb(8, 8, 8);
   border: 1px solid #ddd;
-}
-
-.Dictionary .hint {
-  font-size: 11px;
-  margin-top: 5px;
+  font-size: 18px;
 }
