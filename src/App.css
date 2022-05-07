@@ -11,7 +11,8 @@ a {
   padding: 30px;
   margin: 10px auto;
   border-radius: 8px;
-  max-width: 1000px;
+  max-width: 900px;
+  height: 600px;
   font-family: "Times New Roman", Times, serif;
   background-image: url("https://images.unsplash.com/photo-1527176930608-09cb256ab504?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80");
   background-repeat: no-repeat;
@@ -26,8 +27,18 @@ a {
   font-family: round;
   font-style: italic;
   font-size: 50px;
+  background-image: url("https://images.unsplash.com/photo-1480561807109-e2aa33f23be8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80");
+  background-position: left;
+  background-size: 200px;
+  background-repeat: no-repeat;
 }
 
-.App-footer {
+.App footer {
+  position: fixed;
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  background-color: white;
+  color: grey;
   text-align: center;
 }
