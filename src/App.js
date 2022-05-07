@@ -21,7 +21,7 @@ export default function App() {
             </a>{" "}
             and is{" "}
             <a
-              href="https://github.com/iryna-ag/weather-due"
+              href="https://github.com/iryna-ag/dictionary"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -29,7 +29,7 @@ export default function App() {
             </a>{" "}
             and{" "}
             <a
-              href="https://weatherreactappfinal.netlify.app/"
+              href="https://dictionaryappreactapp.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
